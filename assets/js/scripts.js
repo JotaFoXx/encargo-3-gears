@@ -35,10 +35,10 @@ $(document).ready(function () {
                 response.forEach(gears => {
                     const nuevaSaga = `
                         <div class="col-md-6">
-                            <div class="zoom px-3" data-aos="fade-right" data-aos-duration="1500"><img src="${gears.url}" alt=""></div>
+                            <div class="zoom px-3" data-aos="fade-right" data-aos-duration="1500"><img src="${gears.gears.url}" alt=""></div>
                         </div>
                         <div class="col-md-6">
-                            <div class="zoom px-3" data-aos="flip-down" data-aos-duration="1500"><img src="${gears.url}" alt=""></div>
+                            <div class="zoom px-3" data-aos="flip-down" data-aos-duration="1500"><img src="${gears.gears.url}" alt=""></div>
                         </div>
                         </div>`;
                     $('#NuevaHistoria').append(nuevaSaga);
