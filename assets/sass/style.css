@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  background-image: url(../img/background.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container, .container-fluid {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  height: 80px;
+  width: 170px;
+  margin-left: 150px;
+}
+
+h2 {
+  color: white !important;
+}
+
+.NavBar {
+  background-color: black !important;
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+  padding-left: 60px !important;
+  padding-right: 50px !important;
+}
+
+.fondoRojo {
+  background-color: #4E0202;
+  padding: 0 0 35px 0;
+  margin-left: 10px;
+}
+.fondoRojo:hover {
+  background-color: #C51517;
+}
+.fondoRojo:active {
+  background-color: #C51517 !important;
+}
+
+.linkXbox {
+  background-color: white !important;
+  color: #C51517 !important;
+  border-style: none !important;
+  padding: 4px 50px !important;
+  border-radius: 20px !important;
+  margin-left: 70px !important;
+  margin-top: 20px;
+}
+
+.banner {
+  height: 100vh;
+  width: 188vh;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  justify-content: space-evenly !important;
+  align-items: center;
+}
+
+.botonRojo {
+  background-color: rgba(96, 0, 2, 0.4039215686) !important;
+  border-style: none !important;
+  color: rgba(255, 255, 255, 0.552) !important;
+}
+
+.imgCarrusel {
+  width: 600px;
+  height: 300px;
+}/*# sourceMappingURL=style.css.map */
