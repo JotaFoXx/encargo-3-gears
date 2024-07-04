@@ -1,14 +1,12 @@
-{
-    "gears": [
-      {
-        "id": 1,
-        "nombre": "Gears-of-war-4",
-        "url": "https://raw.githubusercontent.com/JotaFoXx/calculadora/main/assets/img/gears5.png"
-      },
-      {
-        "id": 2,
-        "nombre": "Gears-5",
-        "url": "https://github.com/JotaFoXx/calculadora/blob/main/assets/img/gears5%20(2).png?raw=true"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "nombre": "Gears-of-war-4",
+    "url": "https://raw.githubusercontent.com/JotaFoXx/calculadora/main/assets/img/gears5.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Gears-5",
+    "url": "https://github.com/JotaFoXx/calculadora/blob/main/assets/img/gears5%20(2).png?raw=true"
   }
+]
