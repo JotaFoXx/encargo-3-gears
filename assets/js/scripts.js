@@ -27,7 +27,7 @@ $(document).ready(function () {
 
     function MostrarNuevaHistoria() {
         $.ajax({
-            url: 'https://jotafoxx.github.io/assets/js/script.json',
+            url: 'https://jotafoxx.github.io/encargo-3-gears/assets/js/script.json',
             method: 'GET',
             dataType: 'json',
             success: function (response) {
