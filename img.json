@@ -1,7 +1,14 @@
-[
-  {
-    "id": 1,
-    "nombre": "Gears-of-war-E-day",
-    "url": "https://github.com/JotaFoXx/encargo-3-gears/blob/main/assets/json.img/Grupo%20170.png"
+{
+    "gears": [
+      {
+        "id": 1,
+        "nombre": "Gears-of-war-4",
+        "url": "https://github.com/JotaFoXx/encargo-3-gears/blob/main/assets/json.img/Grupo%20170.png"
+      },
+      {
+        "id": 2,
+        "nombre": "Gears-5",
+        "url": "https://github.com/JotaFoXx/calculadora/blob/main/assets/img/gears5%20(2).png?raw=true"
+      }
+    ]
   }
-]
