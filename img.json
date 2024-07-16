@@ -3,22 +3,22 @@
       {
         "id": 1,
         "nombre": "img",
-        "url": "https://github.com/JotaFoXx/encargo-3-gears/blob/main/assets/json.img/Grupo%20170.png"
+        "url": "https://i.pinimg.com/736x/01/81/c7/0181c76cad302bf6d6d1ae05030408c4.jpg"
       },
       {
         "id": 2,
         "nombre": "img_2",
-        "url": "https://github.com/JotaFoXx/calculadora/blob/main/assets/img/gears5%20(2).png?raw=true"
+        "url": "https://i.pinimg.com/736x/ca/08/10/ca081065b4128034bf8bfc2b227faf8c.jpg"
       },
               {
-        "id": 2,
-        "nombre": "img_#",
-        "url": "https://github.com/JotaFoXx/calculadora/blob/main/assets/img/gears5%20(2).png?raw=true"
+        "id": 3,
+        "nombre": "img_3",
+        "url": "https://i.pinimg.com/474x/86/ea/c0/86eac04c0aa1b1493c26448a13f21a97.jpg"
       },
               {
-        "id": 2,
+        "id": 4,
         "nombre": "img_4",
-        "url": "https://github.com/JotaFoXx/calculadora/blob/main/assets/img/gears5%20(2).png?raw=true"
+        "url": "https://i.pinimg.com/474x/dd/cf/a3/ddcfa39b17c5258feb9f9cf2eabee1de.jpg"
       }
     ]
   }
