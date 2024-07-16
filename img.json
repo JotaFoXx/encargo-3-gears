@@ -1,5 +1,5 @@
-{
-    "juego": [
+
+    [
       {
         "id": 1,
         "nombre": "img",
@@ -21,4 +21,4 @@
         "url": "https://i.pinimg.com/474x/dd/cf/a3/ddcfa39b17c5258feb9f9cf2eabee1de.jpg"
       }
     ]
-  }
+
